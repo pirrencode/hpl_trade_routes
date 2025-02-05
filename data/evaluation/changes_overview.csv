@@ -1,0 +1,14 @@
+﻿id,scenario,"HL TRL 6 vs Baseline changes in, %","HL TRL 9 vs Baseline changes in, %"
+S1,Madrid–Paris,94.65,122.88
+S2,Barcelona–Munich,90.85,129.33
+S3,Lyon–Milan,84.39,102.65
+S4,Rotterdam–Düsseldorf,86.14,110.21
+S5,Berlin–Warsaw,85.26,108.66
+S6,Paris–Vienna–Bucharest–Sofia,59.39,133.39
+S7,Milan–Vienna–Munich,87.66,112.29
+S8,Paris–Brussels–Cologne,87.31,106.35
+S9,Madrid–Lisbon,95.3,114.21
+S10,Stockholm–Copenhagen–Hamburg,97.16,117.53
+S11,Pan-EU Network,91.08,100.78
+S12,Warsaw–Vilnius–Riga–Tallinn,91.83,113.56
+-,Average value,87.585,114.32
