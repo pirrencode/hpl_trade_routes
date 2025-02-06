@@ -1,14 +1,14 @@
 ﻿id,scenario,"HL TRL 6 vs Baseline changes in, %","HL TRL 9 vs Baseline changes in, %"
-S1,Madrid–Paris,94.65,122.88
-S2,Barcelona–Munich,90.85,129.33
-S3,Lyon–Milan,84.39,102.65
-S4,Rotterdam–Düsseldorf,86.14,110.21
-S5,Berlin–Warsaw,85.26,108.66
-S6,Paris–Vienna–Bucharest–Sofia,59.39,133.39
-S7,Milan–Vienna–Munich,87.66,112.29
-S8,Paris–Brussels–Cologne,87.31,106.35
-S9,Madrid–Lisbon,95.3,114.21
-S10,Stockholm–Copenhagen–Hamburg,97.16,117.53
-S11,Pan-EU Network,91.08,100.78
-S12,Warsaw–Vilnius–Riga–Tallinn,91.83,113.56
--,Average value,87.585,114.32
+S1,Pan-EU Network,91.04,100.83
+S2,Paris–Vienna–Bucharest–Sofia,59.41,133.43
+S3,Barcelona–Munich,90.86,129.4
+S4,Milan–Vienna–Munich,87.61,112.27
+S5,Warsaw–Vilnius–Riga–Tallinn,91.82,113.59
+S6,Paris–Brussels–Cologne,87.3,106.36
+S7,Stockholm–Copenhagen–Hamburg,97.18,117.52
+S8,Lyon–Milan,84.38,102.65
+S9,Madrid–Paris,94.67,122.84
+S10,Madrid–Lisbon,95.29,114.19
+S11,Berlin–Warsaw,85.33,108.66
+S12,Rotterdam–Düsseldorf,86.16,110.31
+-,Average value,87.5875,114.3375
